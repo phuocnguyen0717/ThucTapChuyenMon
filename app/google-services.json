@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721594631067",
+    "project_id": "thuctapchuyenmon-delivery",
+    "storage_bucket": "thuctapchuyenmon-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721594631067:android:b36d9a3996c2b42c04973e",
+        "android_client_info": {
+          "package_name": "com.nguyenquangphuoc.thuctapchuyenmon_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721594631067-aqfkaflv3he2idnr1sl6ceiutblplj3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApY9BmVD1lyDFRC5dtm85JED_ylkt54p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721594631067-aqfkaflv3he2idnr1sl6ceiutblplj3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

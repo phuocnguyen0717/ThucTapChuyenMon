@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingTop="60dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+
+    android:background="@drawable/layout_main">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:text="Order Food"
+        android:textColor="@color/colorWhite"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txtSlogan"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:text="Chào mừng bạn đến với ứng dụng đặt món ăn."
+        android:textColor="@color/colorWhite"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="20dp"/>
+
+    <Button
+        android:gravity="center"
+        android:id="@+id/btnSignIn"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="270dp"
+        android:backgroundTint="@color/signUp"
+        android:text="@string/dangnhap"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/size20dp" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/signIn"
+        android:layout_marginTop="340dp"
+        android:text="@string/dangky"
+        android:textColor="@color/colorBlack"
+        android:textSize="@dimen/size20dp" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">thuctapchuyenmon_delivery</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ATS</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="forgot_pass">Quên mật khẩu</string>
+    <string name="password">Mật khẩu</string>
+    <string name="name">Họ Tên</string>
+    <string name="numberPhone">Số Điện Thoại</string>
+    <string name="Address">Địa Chỉ</string>
+
+
+</resources>
