@@ -21,7 +21,7 @@ Giảng viên: Thầy Nguyễn Lê Minh. 
 5. Tình trạng đặt hàng
 6. Đăng ký User
 7. Drawer(menu,order,cart,sign_out)
-8. tìm kiếm món ăn
+8. Tìm kiếm món ăn
 
 ## Phần 3: Các chức năng chưa hoàn thành:
 1. Đăng nhập với vai trò Admin
