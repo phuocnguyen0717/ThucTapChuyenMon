@@ -20,15 +20,12 @@ Giảng viên: Thầy Nguyễn Lê Minh. 
 4. Đặt món
 5. Tình trạng đặt hàng
 6. Đăng ký User
-7.Drawer(menu,order,cart,sign_out)
-
+7. Drawer(menu,order,cart,sign_out)
+8. tìm kiếm món ăn
 
 ## Phần 3: Các chức năng chưa hoàn thành:
 1. Đăng nhập với vai trò Admin
 2. GOOGLE API, FACEBOOK API
 3. Quảng Cáo
-
-## Hướng dẫn sử dụng:
-
 
 Xin cám ơn!
